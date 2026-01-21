@@ -17,3 +17,16 @@ body {
 #site_head {
     padding-left: 1rem ;
 }
+main {
+    border-bottom: 2px;
+    border-left: 0;
+    border-right: 0;
+    border-top: 2px;
+    border-style: solid;
+}
+.container {
+    margin: 1rem;
+    border: 2px;
+    border-style:solid;
+    padding: 1rem
+}
