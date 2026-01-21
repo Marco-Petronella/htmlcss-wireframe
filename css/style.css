@@ -1,0 +1,19 @@
+	
+/*
+Reset per:
+- Azzerare tutti i margini
+- Azzerare tutti i padding
+- Impostare a tutti i tag il box-sizing di tipo border-box
+*/
+ 
+* {
+ 	margin: 0;
+ 	padding: 0;
+ 	box-sizing: border-box;
+}
+body {
+    width: 512px;
+}
+#site_head {
+    padding-left: 1rem ;
+}
